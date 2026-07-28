@@ -3,36 +3,23 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>job-watch — veille d'offres</title>
-<style>
-  :root {
-    --bg: #ffffff; --fg: #1a1a1a; --muted: #666; --card: #f6f6f7; --border: #e2e2e2; --accent: #2f6fed;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root { --bg: #14161a; --fg: #eaeaea; --muted: #9a9a9a; --card: #1e2127; --border: #2c2f36; --accent: #6ea8ff; }
-  }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0; padding: 2rem 1.25rem; background: var(--bg); color: var(--fg);
-    font-family: -apple-system, Segoe UI, Roboto, sans-serif; line-height: 1.5;
-  }
-  main { max-width: 720px; margin: 0 auto; }
-  h1 { font-size: 1.4rem; margin-bottom: 0.25rem; }
-  .meta { color: var(--muted); font-size: 0.9rem; margin-bottom: 2rem; }
-  .empty {
-    border: 1px dashed var(--border); border-radius: 10px; padding: 2rem;
-    text-align: center; color: var(--muted);
-  }
-</style>
+<title>job-watch</title>
+<link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-<main>
-  <h1>Veille d'offres — job-watch</h1>
-  <p class="meta">Dernière mise à jour : en attente du premier scan.</p>
+<div class="wrap">
+  <header class="masthead">
+    <h1>job-watch</h1>
+    <span class="stamp">Léia — Dolibarr/PHP · Unity/3D</span>
+  </header>
+  <p class="scan-line">Dernier scan : <b>en attente du premier passage</b> — prochain à 07h00.</p>
+
   <div class="empty">
-    Le premier scan automatique n'a pas encore été publié ici.<br>
-    Cette page se met à jour toute seule chaque jour à 7h (heure française).
+    Aucune offre publiée pour l'instant.<br>
+    Ce site se met à jour automatiquement chaque matin.
   </div>
-</main>
+
+  <footer class="foot">job-watch — généré automatiquement, aucune offre n'est inventée</footer>
+</div>
 </body>
 </html>
