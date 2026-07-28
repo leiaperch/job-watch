@@ -1,0 +1,42 @@
+{
+  "name": "Léia",
+  "pitch_axes": [
+    {
+      "key": "dolibarr",
+      "label": "PHP / Dolibarr (ERP)",
+      "skills": ["PHP", "Dolibarr", "SQL", "hooks/triggers", "JS/CSS de modules"],
+      "projects": [
+        "SuperPDP (module de facturation électronique)",
+        "Prettybarr (refonte UI Dolibarr, repo PandaERP/prettybarr)",
+        "TakePOS (refonte caisse)"
+      ]
+    },
+    {
+      "key": "unity3d",
+      "label": "Unity / 3D temps réel",
+      "skills": ["C#", "Unity URP", "Three.js", "gameplay", "shaders"],
+      "projects": [
+        "Kaldrith (roguelike 2D, Unity 6 URP)",
+        "Valmyr (action-RPG open world 3D dark fantasy)",
+        "NeoCity (ville cyberpunk procédurale, Unity HDRP)",
+        "SILLON / Magnitude (Three.js, expériences web 3D)"
+      ]
+    }
+  ],
+  "languages": ["français (natif)", "anglais (C1)"],
+  "locations": {
+    "preferred": ["région bordelaise (France)"],
+    "remote_ok": true,
+    "relocation_ok": true,
+    "relocation_notes": "franco-canadienne, ouverte à l'international y compris le Canada"
+  },
+  "situation": "poste actuel en CDD/freelance qui touche à sa fin, recherche active",
+  "sources": {
+    "generalist": ["indeed.fr", "hellowork.com", "jobijoba.com"],
+    "php_niche": ["remotefr.com"],
+    "gamedev_niche": ["arc.dev/remote-jobs/unity", "ingamejob.com", "wellfound.com"]
+  },
+  "excluded_sources": ["linkedin.com"],
+  "letter_length_words": [150, 250],
+  "history_days": 60
+}
