@@ -148,7 +148,8 @@ body {
 }
 
 .axis-dolibarr { color: var(--axis-dolibarr); }
-.axis-unity { color: var(--axis-unity); }
+.axis-unity,
+.axis-unity3d { color: var(--axis-unity); }
 
 .offer-row2 {
   grid-column: 1 / -1;

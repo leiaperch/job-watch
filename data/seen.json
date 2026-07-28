@@ -1,5 +1,59 @@
 [
   {
+    "id": "evil-empire-lead-programmer",
+    "title": "Lead Programmer (H/F)",
+    "company": "Evil Empire",
+    "url": "https://emploi.afjv.com/emploi-jeux-video/EDEV1697-28968",
+    "location": "Bordeaux (33) · sur site",
+    "axis": "unity3d",
+    "first_seen": "2026-07-28"
+  },
+  {
+    "id": "shiro-senior-game-programmer",
+    "title": "Senior Game Programmer (H/F)",
+    "company": "Shiro Games",
+    "url": "https://emploi.afjv.com/emploi-jeux-video/EDEV741-29035",
+    "location": "Bordeaux (33) · sur site",
+    "axis": "unity3d",
+    "first_seen": "2026-07-28"
+  },
+  {
+    "id": "webnet-dev-php-symfony",
+    "title": "Développeur PHP Symfony",
+    "company": "Webnet",
+    "url": "https://www.welcometothejungle.com/fr/companies/webnet/jobs/developpeur-php-symfony-lille_lille_WEBNE_wk9AWg8",
+    "location": "Lille · télétravail fréquent",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-28"
+  },
+  {
+    "id": "webnet-dev-senior-php-symfony",
+    "title": "Développeur senior PHP Symfony",
+    "company": "Webnet",
+    "url": "https://www.welcometothejungle.com/fr/companies/webnet/jobs/developpeur-senior-php-symfony_lille_WEBNE_ZkaaOK6",
+    "location": "Lille · télétravail fréquent",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-28"
+  },
+  {
+    "id": "bbi-platform-engineer-porting",
+    "title": "Platform Engineer (Porting / Co-dev)",
+    "company": "Blackbird Interactive",
+    "url": "https://jobs.lever.co/blackbirdinteractive/776d6eb4-525b-4ed7-9a5f-42ae7d2c462b",
+    "location": "Vancouver, Canada · remote-friendly",
+    "axis": "unity3d",
+    "first_seen": "2026-07-28"
+  },
+  {
+    "id": "bbi-gameplay-ai-ue5",
+    "title": "Gameplay AI Software Engineer (UE5)",
+    "company": "Blackbird Interactive",
+    "url": "https://jobs.lever.co/blackbirdinteractive/7bf7ee87-dba3-4c20-af96-4add8ac61807",
+    "location": "Vancouver, Canada · remote-friendly",
+    "axis": "unity3d",
+    "first_seen": "2026-07-28"
+  },
+  {
     "id": "hellowork-76739401",
     "title": "Développeur Unity (H/F)",
     "company": "Docaret",
