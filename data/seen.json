@@ -1,5 +1,329 @@
 [
   {
+    "id": "sellsy-fullstack-php-vuejs",
+    "title": "Fullstack Developer PHP / Vuejs H/F",
+    "company": "Sellsy",
+    "url": "https://www.welcometothejungle.com/fr/companies/sellsy/jobs/fullstack-developer-php-vuejs-h-f_bordeaux_SELLS_kqPD6KK",
+    "location": "Bordeaux ou La Rochelle (33/17)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "exalt-php-laravel-data",
+    "title": "Développeur PHP / Laravel - Data",
+    "company": "eXalt",
+    "url": "https://www.welcometothejungle.com/fr/companies/exalt/jobs/developpeur-php-laravel-data_bordeaux",
+    "location": "Bordeaux",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "kanbios-php-wordpress",
+    "title": "Développeur PHP / Wordpress - CDI",
+    "company": "Kanbios",
+    "url": "https://www.welcometothejungle.com/fr/companies/kanbios/jobs/developpeur-php-wordpress-cdi_bordeaux",
+    "location": "Bordeaux",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "septeo-fullstack-php",
+    "title": "Développeur fullstack PHP H/F",
+    "company": "Septeo",
+    "url": "https://www.welcometothejungle.com/fr/companies/septeo/jobs/developpeur-fullstack-php-h-f_bordeaux",
+    "location": "Bordeaux",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "audensiel-php-symfony",
+    "title": "Développeur PHP Symfony",
+    "company": "Audensiel Technologies",
+    "url": "https://www.hellowork.com/fr-fr/emplois/46528494.html",
+    "location": "Bordeaux",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "conserto-php-symfony",
+    "title": "Developpeur PHP Symfony CDI Bordeaux",
+    "company": "Conserto",
+    "url": "https://www.hellowork.com/fr-fr/emplois/17268481.html",
+    "location": "Bordeaux",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "maincare-developpeur-experimente",
+    "title": "Développeur(se) Expérimenté(e)",
+    "company": "Maincare Solutions",
+    "url": "https://www.welcometothejungle.com/fr/companies/maincare/jobs/developpeur-se-experimente_pessac",
+    "location": "Pessac (agglomération de Bordeaux)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "assessfirst-developpeur-php",
+    "title": "Développeur.se PHP",
+    "company": "AssessFirst",
+    "url": "https://www.welcometothejungle.com/fr/companies/assessfirst/jobs/developpeur-se-php_paris",
+    "location": "Paris · full remote",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "qotid-septeo-dev-web-php-js",
+    "title": "CDI - Développeur Web PHP/Javascript (Télétravail)",
+    "company": "QOTID (groupe Septeo)",
+    "url": "https://www.welcometothejungle.com/fr/companies/qotid/jobs/cdi-developpeur-web-php-javascript-teletravail_paris",
+    "location": "Paris · full remote",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "recyclivre-php-symfony",
+    "title": "Développeur(se) PHP/Symfony",
+    "company": "Recyclivre",
+    "url": "https://www.welcometothejungle.com/fr/companies/recyclivre-com/jobs/developpeur-se-php-symfony",
+    "location": "France · full remote",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "yield-studio-laravel-php",
+    "title": "Développeur confirmé Laravel / Software Engineer - PHP - Advisory (H/F)",
+    "company": "Yield Studio & Advisory",
+    "url": "https://www.welcometothejungle.com/fr/companies/yield-studio/jobs/developpeur-full-stack-senior-react-laravel",
+    "location": "France · full remote",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "egerie-lead-symfony",
+    "title": "Lead Développeur Symfony H/F",
+    "company": "EGERIE",
+    "url": "https://www.welcometothejungle.com/fr/companies/egerie/jobs/lead-developpeur-symfony-h-f_paris_EGERI_xQMxAGg",
+    "location": "Full remote (Paris/Toulon)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "link-consulting-laravel-vuejs",
+    "title": "Développeur Fullstack Laravel / Vue.js (H/F)",
+    "company": "Link Consulting",
+    "url": "https://www.welcometothejungle.com/fr/companies/link-consulting/jobs/developpeur-fullstack-laravel-vue-js-h-f_bordeaux",
+    "location": "Bordeaux",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "lumapps-senior-laravel-vuejs",
+    "title": "Senior Fullstack Engineer Laravel/Vue.js (F/M)",
+    "company": "LumApps",
+    "url": "https://www.welcometothejungle.com/fr/companies/lumapps/jobs/senior-fullstack-engineer-laravel-vue-js-f-m-paris-lyon-bordeaux",
+    "location": "Paris / Lyon / Bordeaux",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "whatconverts-php-developer-remote",
+    "title": "PHP Developer (Remote)",
+    "company": "WhatConverts",
+    "url": "https://arc.dev/remote-jobs/j/whatconverts-php-developer-remote-e7squl8767",
+    "location": "Remote (international)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "transax-remote-php-developer",
+    "title": "Remote PHP Developer",
+    "company": "Transax",
+    "url": "https://remoteok.com/remote-jobs/remote-php-developer-transax-187518",
+    "location": "Remote (worldwide)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "internet-projects-senior-symfony-fullstack",
+    "title": "Senior Symfony PHP Full Stack Developer - Remote & Full Time",
+    "company": "Internet Projects Ltd",
+    "url": "https://weworkremotely.com/remote-jobs/internet-projects-ltd-senior-symfony-php-full-stack-developer-remote-full-time-1",
+    "location": "Remote (entreprise basée à Londres)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "bbe-marketing-fullstack-php-angular",
+    "title": "Full-Stack PHP Developer (Symfony + Angular)",
+    "company": "BBE Marketing Inc",
+    "url": "https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-php-developer-symfony-angular-1",
+    "location": "Remote (worldwide)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "bbe-marketing-senior-symfony",
+    "title": "Senior Symfony Developer",
+    "company": "BBE Marketing Inc",
+    "url": "https://weworkremotely.com/remote-jobs/bbe-marketing-inc-senior-symfony-developer",
+    "location": "Remote (worldwide)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "lemonio-senior-fullstack-symfony",
+    "title": "Senior Full-Stack Symfony Developer",
+    "company": "Lemon.io",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-symfony-developer",
+    "location": "Remote (worldwide)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "proxify-senior-symfony",
+    "title": "Senior Symfony Developer",
+    "company": "Proxify AB",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-symfony-developer-1",
+    "location": "Remote (worldwide)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "software-international-senior-php-toronto",
+    "title": "Senior PHP Developer",
+    "company": "Software International (SI)",
+    "url": "https://ca.indeed.com/viewjob?jk=4eb0fee43713c9ba",
+    "location": "Toronto, ON, Canada",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "atm-consulting-analyste-dev-web",
+    "title": "Analyste Développeur Web (H/F)",
+    "company": "ATM Consulting",
+    "url": "https://www.atm-consulting.fr/analyste-developpeur-web/",
+    "location": "Valence (26)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "koesio-lead-dev-php-dolibarr",
+    "title": "Lead Développeur (PHP / Dolibarr) – Financement",
+    "company": "Koesio (Koesio Asset Management)",
+    "url": "https://jobs.koesio.com/jobs/6592488-lead-developpeur-php-dolibarr-financement",
+    "location": "Valence (26)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "koesio-developpeur-dolibarr",
+    "title": "Développeur Dolibarr F/H",
+    "company": "Koesio (Koesio Asset Management)",
+    "url": "https://jobisyou.com/emploi/adc2136c-efd8-4569-bb81-6ca683cb5c9c",
+    "location": "Valence (26)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "innlog-developpeur-dolibarr-cdd",
+    "title": "Développeur Dolibarr F/H (CDD 6 mois)",
+    "company": "Innlog",
+    "url": "https://www.talentdetection.com/dartess/offre-67433-oJSHWB",
+    "location": "Les Sables-d'Olonne (85)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "asobo-gameplay-programmer-flightsim",
+    "title": "Gameplay Programmer (Flight Sim)",
+    "company": "Asobo Studio",
+    "url": "https://www.asobostudio.com/careers/gameplay-programmer-flight-sim-286",
+    "location": "Bordeaux (33)",
+    "axis": "unity3d",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "asobo-cpp-programmer-flightsim",
+    "title": "C++ Programmer (Flight Sim)",
+    "company": "Asobo Studio",
+    "url": "https://www.asobostudio.com/careers/c-programmer-flight-sim-308",
+    "location": "Bordeaux (33)",
+    "axis": "unity3d",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "mawari-unity-developer-xr-mobile",
+    "title": "Unity Developer (XR/Mobile)",
+    "company": "Mawari Technologies",
+    "url": "https://www.careerbeacon.com/en/job-9/2373166/mawari-technologies/unity-developer-xr-mobile/waterloo-on",
+    "location": "Waterloo, Ontario, Canada",
+    "axis": "unity3d",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "mawari-sdk-developer-unity-cpp",
+    "title": "SDK Developer - Unity C++ and Computer Graphics",
+    "company": "Mawari Technologies",
+    "url": "https://mawari-technologies-inc.breezy.hr/p/dc2e6d36dc40-sdk-developer-unity-c-and-computer-graphics",
+    "location": "Waterloo, Ontario, Canada",
+    "axis": "unity3d",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "airlab-gameplay-programmer-mobile",
+    "title": "Gameplay Programmer (Mobile)",
+    "company": "Airlab Inc. (Playwing / groupe Ubisoft-Guillemot)",
+    "url": "https://jobs.smartrecruiters.com/AirlabInc/743999668304486-gameplay-programmer-mobile-",
+    "location": "Montréal, QC, Canada",
+    "axis": "unity3d",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "blastworks-unity-software-engineer",
+    "title": "Unity Software Engineer – Mobile + WebGL Client",
+    "company": "Blastworks Inc.",
+    "url": "https://ca.indeed.com/viewjob?jk=e83eabe490e7f288",
+    "location": "Victoria, BC, Canada",
+    "axis": "unity3d",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "leaptools-software-developer-threejs",
+    "title": "Software Developer, React/NextJS (Three.js)",
+    "company": "Leap Tools",
+    "url": "https://remotive.com/remote/jobs/software-development/software-developer-react-nextjs-4512160",
+    "location": "Remote / Worldwide (entreprise basée à Montréal)",
+    "axis": "unity3d",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "fusebox-senior-unity-developer-liveops",
+    "title": "Senior Unity Developer (LiveOps)",
+    "company": "Fusebox Games",
+    "url": "https://remotive.com/remote/jobs/software-development/senior-unity-developer-4932437",
+    "location": "Remote / Worldwide (siège Londres)",
+    "axis": "unity3d",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "decagames-mid-senior-unity-developer",
+    "title": "(Mid / Senior) Unity Developer",
+    "company": "Deca Games",
+    "url": "https://arc.dev/remote-jobs/j/deca-games-mid-senior-unity-developer-baae2irskx",
+    "location": "Remote / Worldwide",
+    "axis": "unity3d",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "id": "zaubar-webgl-developer-remote",
+    "title": "WebGL Developer - 100% Remote Possible",
+    "company": "ZAUBAR",
+    "url": "https://remotive.com/remote/jobs/software-development/webgl-developer-3608486",
+    "location": "Remote (entreprise basée en Allemagne)",
+    "axis": "unity3d",
+    "first_seen": "2026-07-29"
+  },
+  {
     "id": "vinci-dev-csharp-unity-bordeaux",
     "title": "Développeur C#/Unity (F/H)",
     "company": "VINCI",
