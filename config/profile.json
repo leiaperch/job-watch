@@ -4,37 +4,110 @@
     {
       "key": "dolibarr",
       "label": "PHP / Dolibarr (ERP)",
-      "skills": ["PHP", "Dolibarr", "SQL", "hooks/triggers", "JS/CSS de modules"],
+      "skills": ["PHP", "Dolibarr", "SQL", "MySQL/MariaDB", "hooks/triggers", "JavaScript", "CSS", "Git"],
+      "keywords_fr": [
+        "développeur Dolibarr",
+        "développeur PHP",
+        "développeur full-stack PHP JavaScript",
+        "développeur web PHP MySQL",
+        "PHP Symfony",
+        "PHP Laravel",
+        "intégrateur ERP",
+        "ERP open source",
+        "développeur ERP CRM",
+        "développeur back-end PHP"
+      ],
+      "keywords_en": [
+        "PHP developer",
+        "full-stack PHP JavaScript developer",
+        "backend PHP developer",
+        "Symfony developer",
+        "Laravel developer",
+        "ERP developer",
+        "open source ERP developer"
+      ],
       "projects": [
-        "SuperPDP (module de facturation électronique)",
-        "Prettybarr (refonte UI Dolibarr, repo PandaERP/prettybarr)",
-        "TakePOS (refonte caisse)"
+        "SuperPDP (module Dolibarr de facturation électronique, conformité PDP)",
+        "Prettybarr (module de refonte complète de l'UI Dolibarr, repo PandaERP/prettybarr)",
+        "TakePOS (refonte de la caisse Dolibarr, maquettage Figma puis intégration)"
       ]
     },
     {
       "key": "unity3d",
       "label": "Unity / 3D temps réel",
-      "skills": ["C#", "Unity URP", "Three.js", "gameplay", "shaders"],
+      "skills": ["C#", "Unity URP", "Unity HDRP", "New Input System", "Three.js", "WebGL", "shaders", "optimisation temps réel"],
+      "keywords_fr": [
+        "développeur Unity",
+        "développeur C# Unity",
+        "développeur 3D temps réel",
+        "programmeur gameplay",
+        "développeur jeux vidéo",
+        "développeur WebGL Three.js",
+        "technical artist"
+      ],
+      "keywords_en": [
+        "Unity developer",
+        "Unity C# developer",
+        "gameplay programmer",
+        "real-time 3D developer",
+        "WebGL developer",
+        "Three.js developer",
+        "technical artist",
+        "graphics programmer"
+      ],
       "projects": [
-        "Kaldrith (roguelike 2D, Unity 6 URP)",
-        "Valmyr (action-RPG open world 3D dark fantasy)",
+        "Kaldrith (roguelike 2D, Unity 6 / URP / New Input System)",
+        "Valmyr (action-RPG open world 3D dark fantasy, Unity 6)",
         "NeoCity (ville cyberpunk procédurale, Unity HDRP)",
-        "SILLON / Magnitude (Three.js, expériences web 3D)"
+        "SILLON et Magnitude (expériences 3D web, Three.js / WebGL)"
       ]
     }
   ],
   "languages": ["français (natif)", "anglais (C1)"],
   "locations": {
-    "preferred": ["région bordelaise (France)"],
+    "preferred": ["région bordelaise et Nouvelle-Aquitaine (Bordeaux, Pau, Bayonne, La Rochelle)"],
     "remote_ok": true,
     "relocation_ok": true,
-    "relocation_notes": "franco-canadienne, ouverte à l'international y compris le Canada"
+    "relocation_notes": "franco-canadienne : peut travailler au Canada sans visa. Ouverte à l'international, offres en anglais bienvenues (C1)."
   },
-  "situation": "poste actuel en CDD/freelance qui touche à sa fin, recherche active",
+  "situation": "poste actuel en CDD/freelance qui touche à sa fin, recherche active et rapide",
   "sources": {
-    "generalist": ["indeed.fr", "hellowork.com", "jobijoba.com"],
-    "php_niche": ["remotefr.com"],
-    "gamedev_niche": ["arc.dev/remote-jobs/unity", "ingamejob.com", "wellfound.com"]
+    "generalist_fr": [
+      "indeed.fr",
+      "hellowork.com",
+      "jobijoba.com",
+      "apec.fr",
+      "welcometothejungle.com"
+    ],
+    "remote_fr": [
+      "remotefr.com"
+    ],
+    "remote_international": [
+      "remoteok.com",
+      "weworkremotely.com",
+      "remotive.com",
+      "jobspresso.co",
+      "arc.dev"
+    ],
+    "canada": [
+      "ca.indeed.com",
+      "jobboom.com"
+    ],
+    "gamedev_niche": [
+      "arc.dev/remote-jobs/unity",
+      "ingamejob.com",
+      "wellfound.com",
+      "hitmarker.net"
+    ]
+  },
+  "direct_targets": {
+    "note": "Les offres Dolibarr ne sont quasiment jamais publiées sur les jobboards : les intégrateurs recrutent en direct. Vérifier leurs pages carrière/recrutement, et signaler les postes PHP même sans mention explicite de Dolibarr.",
+    "dolibarr_partners_list": "https://wiki.dolibarr.org/index.php/Dolibarr_Preferred_Partner_fr",
+    "known_integrators": [
+      { "name": "Pragma-Tech", "site": "https://www.pragma-tech.fr/", "location": "Pau (64), proche Nouvelle-Aquitaine" },
+      { "name": "ATM Consulting", "site": "https://www.atm-consulting.fr/", "location": "Valence (26)" },
+      { "name": "Kreatys", "site": "https://www.kreatys.com/", "location": "Grenoble (38)" }
+    ]
   },
   "excluded_sources": ["linkedin.com"],
   "letter_length_words": [150, 250],
