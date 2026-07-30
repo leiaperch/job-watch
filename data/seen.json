@@ -1,5 +1,122 @@
 [
   {
+    "id": "headhunterdigital-senior-php-erp",
+    "title": "Senior PHP Developer, Backend (Laravel / Symfony) - AI-Coding Experience",
+    "company": "headhunter.digital (recrutement pour plateforme e-commerce/ERP)",
+    "url": "https://remotive.com/remote/jobs/software-development/senior-php-developer-backend-laravel-symfony-with-ai-coding-experience-4348598",
+    "location": "Full remote international (Canada explicitement éligible)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-30"
+  },
+  {
+    "id": "onthegosystems-senior-php-developer",
+    "title": "Senior PHP Developer (English + French/German/Spanish)",
+    "company": "OnTheGoSystems (WPML)",
+    "url": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer-3",
+    "location": "Full remote (international)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-30"
+  },
+  {
+    "id": "lemonio-senior-php-fullstack",
+    "title": "Remote Senior PHP Full-stack Developer",
+    "company": "Lemon.io",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-php-full-stack-developer",
+    "location": "Full remote (international)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-30"
+  },
+  {
+    "id": "agentis-fullstack-php-larochelle",
+    "title": "Développeur Full Stack PHP (H/F) CDI",
+    "company": "Agentis",
+    "url": "https://www.vindazo.fr/job/viewjob/25472557/developpeur-full-stack-php-la-rochelle-hf.html",
+    "location": "La Rochelle (17)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-30"
+  },
+  {
+    "id": "teamside-php-techlead-larochelle",
+    "title": "Développeur PHP (H/F)",
+    "company": "Teamside",
+    "url": "https://www.ouestjob.com/emplois/developpeur-developpeur-php-h-f-7370065.html",
+    "location": "La Rochelle (17)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-30"
+  },
+  {
+    "id": "donati-dev-backend-larochelle",
+    "title": "Développeur Back-End (H/F) CDI",
+    "company": "Donati",
+    "url": "https://taleez.com/apply/developpeur-back-end-h-f-la-rochelle-donati-cdi",
+    "location": "La Rochelle (17)",
+    "axis": "dolibarr",
+    "first_seen": "2026-07-30"
+  },
+  {
+    "id": "beffio-3d-technical-artist-unity",
+    "title": "3D Technical Artist – Unity3D (Mid/Senior, Remote)",
+    "company": "beffio",
+    "url": "https://www.artstation.com/jobs/4dQ8",
+    "location": "Full remote (Europe)",
+    "axis": "unity3d",
+    "first_seen": "2026-07-30"
+  },
+  {
+    "id": "mooncatgames-unity-developer-montreal",
+    "title": "Unity Game Developer",
+    "company": "Moon Cat Games",
+    "url": "https://ca.indeed.com/viewjob?jk=9135027b7416abed",
+    "location": "Montréal, QC, Canada",
+    "axis": "unity3d",
+    "first_seen": "2026-07-30"
+  },
+  {
+    "id": "mapleleaf-gamestudios-unity-developer-vancouver",
+    "title": "Game Developer – Unity / Unreal Engine (Interactive & Online Game Shows)",
+    "company": "Maple Leaf Game Studios Inc.",
+    "url": "https://ca.indeed.com/viewjob?jk=7d3d262ba6905fac",
+    "location": "Vancouver, BC, Canada",
+    "axis": "unity3d",
+    "first_seen": "2026-07-30"
+  },
+  {
+    "id": "gameloft-unity-developer-prototyping",
+    "title": "Unity Developer / Prototyping",
+    "company": "Gameloft",
+    "url": "https://arc.dev/remote-jobs/j/gameloft-unity-developer-prototyping-dv2d6v5xum",
+    "location": "Remote",
+    "axis": "unity3d",
+    "first_seen": "2026-07-30"
+  },
+  {
+    "id": "unitytechnologies-senior-graphics-programmer",
+    "title": "Senior Graphics Programmer",
+    "company": "Unity Technologies",
+    "url": "https://remotive.com/remote/jobs/software-development/senior-graphics-programmer-4240484",
+    "location": "Remote",
+    "axis": "unity3d",
+    "first_seen": "2026-07-30"
+  },
+  {
+    "id": "mysterytag-middle-unity-developer",
+    "title": "Middle C# Unity Developer",
+    "company": "MysteryTag",
+    "url": "https://us.ingamejob.com/en/job/middle-c-unity-developer-12",
+    "location": "Remote",
+    "axis": "unity3d",
+    "first_seen": "2026-07-30"
+  },
+  {
+    "id": "skillcampvr-senior-unity-developer",
+    "title": "Senior Unity Developer",
+    "company": "SkillCampVR",
+    "url": "https://us.ingamejob.com/en/job/senior-unity-developer-226",
+    "location": "Remote",
+    "axis": "unity3d",
+    "first_seen": "2026-07-30"
+  },
+  {
     "id": "sellsy-fullstack-php-vuejs",
     "title": "Fullstack Developer PHP / Vuejs H/F",
     "company": "Sellsy",
