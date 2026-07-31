@@ -11,7 +11,6 @@
         "développeur full-stack PHP JavaScript",
         "développeur web PHP MySQL",
         "PHP Symfony",
-        "PHP Laravel",
         "intégrateur ERP",
         "ERP open source",
         "développeur ERP CRM",
@@ -22,7 +21,6 @@
         "full-stack PHP JavaScript developer",
         "backend PHP developer",
         "Symfony developer",
-        "Laravel developer",
         "ERP developer",
         "open source ERP developer"
       ],
@@ -68,9 +66,19 @@
     "preferred": ["région bordelaise et Nouvelle-Aquitaine (Bordeaux, Pau, Bayonne, La Rochelle)"],
     "remote_ok": true,
     "relocation_ok": true,
-    "relocation_notes": "franco-canadienne : peut travailler au Canada sans visa. Ouverte à l'international, offres en anglais bienvenues (C1)."
+    "europe_ok": true,
+    "relocation_notes": "franco-canadienne : peut travailler au Canada sans visa. Ouverte à l'international (Europe incluse), offres en anglais bienvenues (C1)."
   },
   "situation": "poste actuel en CDD/freelance qui touche à sa fin, recherche active et rapide",
+  "experience_level": {
+    "max_years_experience": 5,
+    "exclude_if_offer_mentions": ["senior", "sr.", "lead", "staff", "principal", "expert confirmé", "5+ ans d'expérience", "5 ans d'expérience minimum", "profil confirmé (+5 ans)"],
+    "note": "Ne pas rapporter les offres seniors / lead / principal ni celles exigeant plus de 5 ans d'expérience, quel que soit l'axe (dolibarr ou unity3d)."
+  },
+  "skills_excluded": {
+    "list": ["Laravel"],
+    "note": "Léia ne sait pas faire de Laravel : ne pas cibler les offres qui l'exigent comme stack principale, même si PHP/Symfony reste pertinent."
+  },
   "sources": {
     "generalist_fr": [
       "indeed.fr",
