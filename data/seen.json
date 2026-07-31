@@ -6,7 +6,7 @@
     "url": "https://remotive.com/remote/jobs/software-development/senior-php-developer-backend-laravel-symfony-with-ai-coding-experience-4348598",
     "location": "Full remote international (Canada explicitement éligible)",
     "axis": "dolibarr",
-    "first_seen": "2026-07-30"
+    "first_seen": "2026-07-31"
   },
   {
     "id": "onthegosystems-senior-php-developer",
@@ -15,7 +15,7 @@
     "url": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer-3",
     "location": "Full remote (international)",
     "axis": "dolibarr",
-    "first_seen": "2026-07-30"
+    "first_seen": "2026-07-31"
   },
   {
     "id": "lemonio-senior-php-fullstack",
@@ -24,7 +24,7 @@
     "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-php-full-stack-developer",
     "location": "Full remote (international)",
     "axis": "dolibarr",
-    "first_seen": "2026-07-30"
+    "first_seen": "2026-07-31"
   },
   {
     "id": "agentis-fullstack-php-larochelle",
@@ -33,7 +33,7 @@
     "url": "https://www.vindazo.fr/job/viewjob/25472557/developpeur-full-stack-php-la-rochelle-hf.html",
     "location": "La Rochelle (17)",
     "axis": "dolibarr",
-    "first_seen": "2026-07-30"
+    "first_seen": "2026-07-31"
   },
   {
     "id": "teamside-php-techlead-larochelle",
@@ -42,7 +42,7 @@
     "url": "https://www.ouestjob.com/emplois/developpeur-developpeur-php-h-f-7370065.html",
     "location": "La Rochelle (17)",
     "axis": "dolibarr",
-    "first_seen": "2026-07-30"
+    "first_seen": "2026-07-31"
   },
   {
     "id": "donati-dev-backend-larochelle",
@@ -51,7 +51,7 @@
     "url": "https://taleez.com/apply/developpeur-back-end-h-f-la-rochelle-donati-cdi",
     "location": "La Rochelle (17)",
     "axis": "dolibarr",
-    "first_seen": "2026-07-30"
+    "first_seen": "2026-07-31"
   },
   {
     "id": "beffio-3d-technical-artist-unity",
@@ -60,7 +60,7 @@
     "url": "https://www.artstation.com/jobs/4dQ8",
     "location": "Full remote (Europe)",
     "axis": "unity3d",
-    "first_seen": "2026-07-30"
+    "first_seen": "2026-07-31"
   },
   {
     "id": "mooncatgames-unity-developer-montreal",
@@ -69,7 +69,7 @@
     "url": "https://ca.indeed.com/viewjob?jk=9135027b7416abed",
     "location": "Montréal, QC, Canada",
     "axis": "unity3d",
-    "first_seen": "2026-07-30"
+    "first_seen": "2026-07-31"
   },
   {
     "id": "mapleleaf-gamestudios-unity-developer-vancouver",
@@ -78,7 +78,7 @@
     "url": "https://ca.indeed.com/viewjob?jk=7d3d262ba6905fac",
     "location": "Vancouver, BC, Canada",
     "axis": "unity3d",
-    "first_seen": "2026-07-30"
+    "first_seen": "2026-07-31"
   },
   {
     "id": "gameloft-unity-developer-prototyping",
@@ -87,7 +87,7 @@
     "url": "https://arc.dev/remote-jobs/j/gameloft-unity-developer-prototyping-dv2d6v5xum",
     "location": "Remote",
     "axis": "unity3d",
-    "first_seen": "2026-07-30"
+    "first_seen": "2026-07-31"
   },
   {
     "id": "unitytechnologies-senior-graphics-programmer",
@@ -96,25 +96,7 @@
     "url": "https://remotive.com/remote/jobs/software-development/senior-graphics-programmer-4240484",
     "location": "Remote",
     "axis": "unity3d",
-    "first_seen": "2026-07-30"
-  },
-  {
-    "id": "mysterytag-middle-unity-developer",
-    "title": "Middle C# Unity Developer",
-    "company": "MysteryTag",
-    "url": "https://us.ingamejob.com/en/job/middle-c-unity-developer-12",
-    "location": "Remote",
-    "axis": "unity3d",
-    "first_seen": "2026-07-30"
-  },
-  {
-    "id": "skillcampvr-senior-unity-developer",
-    "title": "Senior Unity Developer",
-    "company": "SkillCampVR",
-    "url": "https://us.ingamejob.com/en/job/senior-unity-developer-226",
-    "location": "Remote",
-    "axis": "unity3d",
-    "first_seen": "2026-07-30"
+    "first_seen": "2026-07-31"
   },
   {
     "id": "sellsy-fullstack-php-vuejs",
@@ -324,29 +306,11 @@
     "first_seen": "2026-07-29"
   },
   {
-    "id": "koesio-lead-dev-php-dolibarr",
-    "title": "Lead Développeur (PHP / Dolibarr) – Financement",
-    "company": "Koesio (Koesio Asset Management)",
-    "url": "https://jobs.koesio.com/jobs/6592488-lead-developpeur-php-dolibarr-financement",
-    "location": "Valence (26)",
-    "axis": "dolibarr",
-    "first_seen": "2026-07-29"
-  },
-  {
     "id": "koesio-developpeur-dolibarr",
     "title": "Développeur Dolibarr F/H",
     "company": "Koesio (Koesio Asset Management)",
     "url": "https://jobisyou.com/emploi/adc2136c-efd8-4569-bb81-6ca683cb5c9c",
     "location": "Valence (26)",
-    "axis": "dolibarr",
-    "first_seen": "2026-07-29"
-  },
-  {
-    "id": "innlog-developpeur-dolibarr-cdd",
-    "title": "Développeur Dolibarr F/H (CDD 6 mois)",
-    "company": "Innlog",
-    "url": "https://www.talentdetection.com/dartess/offre-67433-oJSHWB",
-    "location": "Les Sables-d'Olonne (85)",
     "axis": "dolibarr",
     "first_seen": "2026-07-29"
   },
@@ -486,29 +450,11 @@
     "first_seen": "2026-07-28"
   },
   {
-    "id": "honikou-games-unity-gameplay-networking",
-    "title": "Développeur Unity Gameplay & Networking",
-    "company": "Honikou Games",
-    "url": "https://emploi.afjv.com/emploi-jeux-video/EDEV1107-28687",
-    "location": "Télétravail (France/Europe)",
-    "axis": "unity3d",
-    "first_seen": "2026-07-28"
-  },
-  {
     "id": "ugi-studio-unity-developer",
     "title": "Unity Developer (Middle/Senior)",
     "company": "UGI Studio",
     "url": "https://ingamejob.com/en/job/unity-developer-middle-3",
     "location": "Full remote",
-    "axis": "unity3d",
-    "first_seen": "2026-07-28"
-  },
-  {
-    "id": "xsolla-threejs-webgl-developer",
-    "title": "Three.js/WebGL Developer",
-    "company": "Xsolla",
-    "url": "https://jobs.lever.co/xsolla/f76bef1c-54cc-4e14-be2c-2a2f58ee771f",
-    "location": "Remote (US, Canada BC/ON, Irlande, UK, Mexico City)",
     "axis": "unity3d",
     "first_seen": "2026-07-28"
   },
@@ -545,24 +491,6 @@
     "company": "Airalo",
     "url": "https://jobs.lever.co/airalo/9b84d6cf-7a66-4b33-89f4-3f2ae9918184",
     "location": "Full remote",
-    "axis": "dolibarr",
-    "first_seen": "2026-07-28"
-  },
-  {
-    "id": "onthegosystems-php-developer",
-    "title": "PHP Developer (French or German speakers)",
-    "company": "OnTheGoSystems",
-    "url": "https://weworkremotely.com/remote-jobs/onthegosystems-php-developer-french-or-german-speakers",
-    "location": "Full remote, équipe internationale",
-    "axis": "dolibarr",
-    "first_seen": "2026-07-28"
-  },
-  {
-    "id": "silverorange-php-developer-canada",
-    "title": "PHP-Focused Web Developer",
-    "company": "silverorange",
-    "url": "https://weworkremotely.com/remote-jobs/silverorange-php-focused-web-developer-4",
-    "location": "Canada · full remote",
     "axis": "dolibarr",
     "first_seen": "2026-07-28"
   },
@@ -634,15 +562,6 @@
     "title": "Développeur PHP Symfony",
     "company": "Webnet",
     "url": "https://www.welcometothejungle.com/fr/companies/webnet/jobs/developpeur-php-symfony-lille_lille_WEBNE_wk9AWg8",
-    "location": "Lille · télétravail fréquent",
-    "axis": "dolibarr",
-    "first_seen": "2026-07-28"
-  },
-  {
-    "id": "webnet-dev-senior-php-symfony",
-    "title": "Développeur senior PHP Symfony",
-    "company": "Webnet",
-    "url": "https://www.welcometothejungle.com/fr/companies/webnet/jobs/developpeur-senior-php-symfony_lille_WEBNE_ZkaaOK6",
     "location": "Lille · télétravail fréquent",
     "axis": "dolibarr",
     "first_seen": "2026-07-28"
