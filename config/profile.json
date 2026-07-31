@@ -119,5 +119,12 @@
   },
   "excluded_sources": ["linkedin.com"],
   "letter_length_words": [150, 250],
-  "history_days": 60
+  "history_days": 60,
+  "maintenance_instructions": {
+    "peremption_check": {
+      "when": "à chaque run, avant de publier, en plus des étapes de recherche/dédup habituelles",
+      "note_pour_l_agent": "Ce contrôle n'est pas (encore) inscrit dans le prompt de la routine elle-même — la routine a été créée via l'UI web et l'agent n'a pas la permission de modifier son prompt stocké. En attendant une correction manuelle du prompt par l'utilisatrice, applique cette procédure à chaque exécution en te basant sur ce fichier.",
+      "procedure": "Revérifie aussi les offres DÉJÀ présentes dans data/seen.json (pas seulement les nouvelles) : le but est qu'aucune offre morte ou pourvue ne reste affichée sur le site. Pour chaque offre existante, essaie WebFetch sur son URL. Si la page renvoie 404, redirige vers une page générique/liste, ou affiche un message explicite ('offre pourvue', 'poste non disponible', 'no longer accepting applications', badge 'archive/archived') → retire l'offre de data/seen.json (et donc de index.html). Si WebFetch est indisponible (panne de proxy — teste d'abord avec une URL neutre type https://example.com pour confirmer que ce n'est pas spécifique à un site avant de conclure à une panne générale), utilise WebSearch en recoupement : cherche titre + entreprise + URL exacte. Signaux de péremption à considérer même sans confirmation à 100% : date de publication indexée nettement plus ancienne que la durée de vie typique de la plateforme (grossièrement quelques semaines à ~2 mois sur un jobboard généraliste type HelloWork/WeWorkRemotely/Indeed/AFJV ; plusieurs mois sans confirmation de fraîcheur sur un site plus obscur), ou annonce remplacée par un autre identifiant/titre pour un poste équivalent chez la même entreprise. Les pages carrière d'entreprise et ATS (Lever, SmartRecruiters, Breezy, Workable) restent généralement live jusqu'à pourvoi du poste : l'absence de signal de fermeture y vaut présomption de vie. Vu le volume, parallélise par lots de ~15-20 offres via des sous-agents plutôt qu'en séquentiel. En cas de doute réel (ni signal de vie ni de péremption) : garde l'offre mais note-le dans le résumé final comme 'à vérifier manuellement'. Ne jamais retirer une offre après un seul échec WebFetch sans avoir d'abord confirmé que ce n'est pas une panne générale. Mentionne dans le message de commit combien d'offres ont été retirées pour péremption (ex. 'Veille du YYYY-MM-DD : N nouvelles offres, M retirées (péremption)')."
+    }
+  }
 }
