@@ -126,6 +126,7 @@
     ]
   },
   "excluded_sources": ["linkedin.com"],
+  "sourcing_note": "Un nettoyage strict (voir maintenance_instructions.peremption_check) a dû retirer 50/83 offres le 02/08/2026 car les jobboards/agrégateurs (Welcome to the Jungle, HelloWork, Indeed, WeWorkRemotely, arc.dev, RemoteOK, Wizbii, ArtStation Jobs...) ne permettent pas de confirmer la fraîcheur d'une annonce sans accès direct à la page (WebFetch). À la recherche, quand une offre existe à la fois sur un agrégateur ET sur la page carrière/ATS propre de l'entreprise (Lever, Greenhouse, Breezy, SmartRecruiters, AshbyHQ, Workable), préfère toujours publier l'URL de l'ATS d'entreprise — elle reste vérifiable dans la durée. Les jobboards/agrégateurs restent utiles pour découvrir des offres, mais dès que possible remonte jusqu'à la source (page carrière de l'entreprise) avant de publier l'URL.",
   "letter_length_words": [150, 250],
   "history_days": 45,
   "maintenance_instructions": {
