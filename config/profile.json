@@ -70,6 +70,14 @@
     "relocation_notes": "franco-canadienne : peut travailler au Canada sans visa. Ouverte à l'international (Europe incluse), offres en anglais bienvenues (C1)."
   },
   "situation": "poste actuel en CDD/freelance qui touche à sa fin, recherche active et rapide",
+  "employment_types_ok": ["CDI", "CDD", "freelance/indépendant", "mission", "contrat"],
+  "company_preferences": {
+    "adhd_note": "Léia est TDAH : privilégier les environnements avec autonomie réelle, peu de bureaucratie, cycles de décision courts et flexibilité horaire/télétravail plutôt que présentiel rigide et process lourds. Ne jamais mentionner le TDAH dans les lettres de motivation (info personnelle, pas à divulguer) — s'en servir uniquement en interne pour filtrer/prioriser les offres.",
+    "reject_large_companies": true,
+    "reject_large_companies_note": "Écarter les grands groupes / grandes structures corporate : multinationales, ESN géantes (Capgemini, Sopra Steria, Atos, Devoteam, CGI, Accenture, Alten, Akkodis, Inetum...), grands groupes cotés, gros studios AAA rattachés à un groupe (Ubisoft, EA, Activision-Blizzard, Vivendi/Gameloft, Microsoft/Xbox...), grandes ESN/groupes français type Vinci, Septeo, LDLC. Préférer studios indés, startups, scale-ups à taille humaine (grossièrement <200 personnes), agences ou clients freelance.",
+    "freelance_ok": true,
+    "freelance_note": "Grande ouverture au freelance/indépendant, y compris missions courtes ou ponctuelles, en plus des CDI/CDD classiques."
+  },
   "experience_level": {
     "max_years_experience": 5,
     "exclude_if_offer_mentions": ["senior", "sr.", "lead", "staff", "principal", "expert confirmé", "5+ ans d'expérience", "5 ans d'expérience minimum", "profil confirmé (+5 ans)"],
