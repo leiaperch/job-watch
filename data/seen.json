@@ -1,118 +1,10 @@
 [
   {
-    "id": "lehibou-dolibarr-bordeaux-freelance",
-    "title": "Consultant Technique Dolibarr",
-    "company": "LeHibou (mission chez client PME du bâtiment)",
-    "url": "https://www.free-work.com/fr/tech-it/consultant/job-mission/consultant-technique-dolibarr",
-    "location": "Bordeaux (33) · mission freelance",
-    "axis": "dolibarr",
-    "first_seen": "2026-08-02"
-  },
-  {
-    "id": "cloudtalk-mid-php-developer-remote-europe",
-    "title": "Mid PHP Developer (Remote in Europe)",
-    "company": "CloudTalk",
-    "url": "https://startup.jobs/php-developer-remote-in-europe-cloudtalk-4536345",
-    "location": "Full remote (Europe)",
-    "axis": "dolibarr",
-    "first_seen": "2026-08-02"
-  },
-  {
-    "id": "idloom-php-developer-brussels",
-    "title": "PHP Developer",
-    "company": "idloom",
-    "url": "https://www.idloom.com/en/careers/php-developer-brussels-area",
-    "location": "Waterloo, région de Bruxelles, Belgique",
-    "axis": "dolibarr",
-    "first_seen": "2026-08-02"
-  },
-  {
-    "id": "mailerlite-php-engineer-remote",
-    "title": "PHP Engineer",
-    "company": "MailerLite",
-    "url": "https://weworkremotely.com/remote-jobs/mailerlite-php-engineer-1",
-    "location": "Full remote (équipe distribuée, base à Vilnius)",
-    "axis": "dolibarr",
-    "first_seen": "2026-08-02"
-  },
-  {
-    "id": "frisbee-unity-developer-experienced-paris",
-    "title": "Développeur de jeux vidéo expérimenté Unity (H/F)",
-    "company": "FRISBEE PROFILING",
-    "url": "https://www.free-work.com/fr/tech-it/developpeur-euse-jeux-videos/job-mission/developpeur-de-jeux-video-experimente-unity-h-f",
-    "location": "Paris · mission freelance (3 mois renouvelable)",
-    "axis": "unity3d",
-    "first_seen": "2026-08-02"
-  },
-  {
-    "id": "frisbee-unity-developer-junior-paris",
-    "title": "Développeur Unity jeux mobiles (H/F)",
-    "company": "FRISBEE PROFILING",
-    "url": "https://www.free-work.com/fr/tech-it/developpeur-euse-jeux-videos/job-mission/developpeur-unity-jeux-mobiles-h-f",
-    "location": "Paris · mission freelance (ASAP, 3 mois renouvelable)",
-    "axis": "unity3d",
-    "first_seen": "2026-08-02"
-  },
-  {
     "id": "tier9-game-developer-gacha-toronto",
     "title": "Game Developer (Gacha Role-Playing Games)",
     "company": "Tier 9 Game Studios",
     "url": "https://tier-9-game-studios-ltd.breezy.hr/p/e285bae9aa07-game-developer-gacha-role-playing-games",
     "location": "Toronto, ON, Canada",
-    "axis": "unity3d",
-    "first_seen": "2026-08-02"
-  },
-  {
-    "id": "saintwtf-unity-developer-gameplay-rd",
-    "title": "Unity Developer (Gameplay, R&D)",
-    "company": "Saint.wtf",
-    "url": "https://ingamejob.com/en/job/unity-developer-gameplay-rd",
-    "location": "Full remote (studio basé à Kyiv, Ukraine)",
-    "axis": "unity3d",
-    "first_seen": "2026-08-02"
-  },
-  {
-    "id": "edgeworld-unity-developer-stopmotion",
-    "title": "Unity Developer (2.5D Stop-Motion Game)",
-    "company": "Edge of the World Studios",
-    "url": "https://remotegamejobs.com/jobs/edge-of-the-world-studios-unity-developer-remote-job",
-    "location": "Full remote · contrat/freelance",
-    "axis": "unity3d",
-    "first_seen": "2026-08-02"
-  },
-  {
-    "id": "edgeworld-technical-artist-claymation",
-    "title": "Technical Artist (Unity 3D - Claymation Focus)",
-    "company": "Edge of the World Studios",
-    "url": "https://remotegamejobs.com/jobs/edge-of-the-world-studios-technical-artist-unity-3d-claymation-focus-remote-job",
-    "location": "Full remote · freelance temps partiel",
-    "axis": "unity3d",
-    "first_seen": "2026-08-02"
-  },
-  {
-    "id": "wattweiser-unity-developer-web-urp",
-    "title": "Unity Developer (m/w/d) — Unity 6 Web / URP / New Input System",
-    "company": "WattWeiser c/o WattWelten UG",
-    "url": "https://remotive.com/remote/jobs/software-development/unity-developer-3490519",
-    "location": "Full remote (Allemagne, Oldenburg) · mission freelance 8-12 semaines",
-    "axis": "unity3d",
-    "first_seen": "2026-08-02"
-  },
-  {
-    "id": "twine-web3d-developer-threejs-webgl",
-    "title": "Web 3D Developer (three.js / WebGL) [Urgent]",
-    "company": "Studio de visualisation 3D (via Twine)",
-    "url": "https://www.twine.net/projects/b9fre0-web-3d-developer-threejs-webgl-urgent-front-end-developer-remote-job",
-    "location": "Full remote · freelance",
-    "axis": "unity3d",
-    "first_seen": "2026-08-02"
-  },
-  {
-    "id": "pixarts-unity-developer-contractor",
-    "title": "C# Unity Developer (Remote Contractor)",
-    "company": "Pix Arts",
-    "url": "https://discussions.unity.com/t/job-offer-c-unity-developer-remote-contractor/1702526",
-    "location": "Full remote · contrat freelance",
     "axis": "unity3d",
     "first_seen": "2026-08-02"
   },
@@ -124,42 +16,6 @@
     "location": "Full remote (Canada) · siège Toronto",
     "axis": "unity3d",
     "first_seen": "2026-08-02"
-  },
-  {
-    "id": "avataris-unity-developer-freelance",
-    "title": "Unity Developer (Freelance)",
-    "company": "Avataris GmbH",
-    "url": "https://remotegamejobs.com/jobs/avataris-gmbh-unity-developer-remote-job-13e6422f-22af-4181-988a-ca2fb72a15a5",
-    "location": "Full remote (Europe/EMEA) · siège Graz, Autriche",
-    "axis": "unity3d",
-    "first_seen": "2026-08-02"
-  },
-  {
-    "id": "fsstudio-unity-developer-simulation",
-    "title": "Unity Developer",
-    "company": "FS Studio",
-    "url": "https://fsstudio.com/careers/co/westminster-colorado/9C.347-98.40F/unity-developer/all/",
-    "location": "Full remote (équipe internationale, siège Colorado, USA) · contrat 6 mois",
-    "axis": "unity3d",
-    "first_seen": "2026-08-02"
-  },
-  {
-    "id": "asobo-gameplay-programmer-flightsim",
-    "title": "Gameplay Programmer (Flight Sim)",
-    "company": "Asobo Studio",
-    "url": "https://www.asobostudio.com/careers/gameplay-programmer-flight-sim-286",
-    "location": "Bordeaux (33)",
-    "axis": "unity3d",
-    "first_seen": "2026-07-29"
-  },
-  {
-    "id": "asobo-cpp-programmer-flightsim",
-    "title": "C++ Programmer (Flight Sim)",
-    "company": "Asobo Studio",
-    "url": "https://www.asobostudio.com/careers/c-programmer-flight-sim-308",
-    "location": "Bordeaux (33)",
-    "axis": "unity3d",
-    "first_seen": "2026-07-29"
   },
   {
     "id": "mawari-sdk-developer-unity-cpp",
@@ -189,33 +45,6 @@
     "first_seen": "2026-07-29"
   },
   {
-    "id": "fusebox-senior-unity-developer-liveops",
-    "title": "Senior Unity Developer (LiveOps)",
-    "company": "Fusebox Games",
-    "url": "https://remotive.com/remote/jobs/software-development/senior-unity-developer-4932437",
-    "location": "Remote / Worldwide (siège Londres)",
-    "axis": "unity3d",
-    "first_seen": "2026-07-29"
-  },
-  {
-    "id": "decagames-mid-senior-unity-developer",
-    "title": "(Mid / Senior) Unity Developer",
-    "company": "Deca Games",
-    "url": "https://arc.dev/remote-jobs/j/deca-games-mid-senior-unity-developer-baae2irskx",
-    "location": "Remote / Worldwide",
-    "axis": "unity3d",
-    "first_seen": "2026-07-29"
-  },
-  {
-    "id": "ugi-studio-unity-developer",
-    "title": "Unity Developer (Middle/Senior)",
-    "company": "UGI Studio",
-    "url": "https://ingamejob.com/en/job/unity-developer-middle-3",
-    "location": "Full remote",
-    "axis": "unity3d",
-    "first_seen": "2026-07-28"
-  },
-  {
     "id": "vrchat-unity-technical-artist",
     "title": "Unity Technical Artist, Live Ops Content Pipeline",
     "company": "VRChat",
@@ -230,42 +59,6 @@
     "company": "Blackbird Interactive",
     "url": "https://jobs.lever.co/blackbirdinteractive/02567906-c547-4389-a1ed-909455d68374",
     "location": "Canada uniquement · remote-friendly",
-    "axis": "unity3d",
-    "first_seen": "2026-07-28"
-  },
-  {
-    "id": "decima-digital-senior-php-laravel",
-    "title": "Senior PHP/Laravel Developer (+Shopify)",
-    "company": "Decima Digital",
-    "url": "https://jobs.lever.co/decima-digital/4d1e88ed-b7b5-4529-b821-89c0b4c722d9",
-    "location": "Remote (chevauchement fuseau US Central)",
-    "axis": "dolibarr",
-    "first_seen": "2026-07-28"
-  },
-  {
-    "id": "airalo-senior-php-developer",
-    "title": "Senior PHP Developer, Core Networks",
-    "company": "Airalo",
-    "url": "https://jobs.lever.co/airalo/9b84d6cf-7a66-4b33-89f4-3f2ae9918184",
-    "location": "Full remote",
-    "axis": "dolibarr",
-    "first_seen": "2026-07-28"
-  },
-  {
-    "id": "evil-empire-lead-programmer",
-    "title": "Lead Programmer (H/F)",
-    "company": "Evil Empire",
-    "url": "https://emploi.afjv.com/emploi-jeux-video/EDEV1697-28968",
-    "location": "Bordeaux (33) · sur site",
-    "axis": "unity3d",
-    "first_seen": "2026-07-28"
-  },
-  {
-    "id": "shiro-senior-game-programmer",
-    "title": "Senior Game Programmer (H/F)",
-    "company": "Shiro Games",
-    "url": "https://emploi.afjv.com/emploi-jeux-video/EDEV741-29035",
-    "location": "Bordeaux (33) · sur site",
     "axis": "unity3d",
     "first_seen": "2026-07-28"
   },
