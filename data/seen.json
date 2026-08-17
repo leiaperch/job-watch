@@ -1,66 +1,12 @@
 [
   {
-    "id": "atmconsulting-analyste-developpeur-web",
-    "title": "Analyste Développeur Web (H/F)",
-    "company": "ATM Consulting",
-    "url": "https://www.atm-consulting.fr/analyste-developpeur-web/",
-    "location": "Valence (26)",
-    "axis": "dolibarr",
-    "first_seen": "2026-08-10"
-  },
-  {
-    "id": "ultracode-developpeur-php-bordeaux",
-    "title": "Développeur PHP (CDI)",
-    "company": "Ultracode",
-    "url": "https://taleez.com/apply/developpeur-php-bordeaux-ultracode-cdi",
-    "location": "Bordeaux",
-    "axis": "dolibarr",
-    "first_seen": "2026-08-10"
-  },
-  {
-    "id": "tapnation-unity-developer-webgl-freelance",
-    "title": "Unity Developer – WebGL (Freelance)",
-    "company": "TapNation",
-    "url": "https://careers.tap-nation.io/jobs/5177095-unity-developer-webgl-freelance",
-    "location": "Full remote · freelance/mission longue",
-    "axis": "unity3d",
-    "first_seen": "2026-08-10"
-  },
-  {
-    "id": "mooncatgames-unity-game-developer-montreal",
+    "id": "triumph-arcade-unity-game-developer",
     "title": "Unity Game Developer",
-    "company": "Moon Cat Games",
-    "url": "https://ca.indeed.com/viewjob?jk=9135027b7416abed",
-    "location": "Montréal, QC, Canada",
+    "company": "Triumph Arcade",
+    "url": "https://jobs.ashbyhq.com/triumph-arcade/e7d841eb-e2a1-4bc4-8b74-8cde08be556e",
+    "location": "Full remote (siège San Francisco)",
     "axis": "unity3d",
-    "first_seen": "2026-08-10"
-  },
-  {
-    "id": "aquilainteractive-unity-gameplay-programmer-gildeddestiny",
-    "title": "Unity Gameplay Programmer (C#) – Grand Strategy Game",
-    "company": "Aquila Interactive",
-    "url": "https://aquilainteractive.io/careers",
-    "location": "Full remote (work from anywhere, fuseau européen préféré)",
-    "axis": "unity3d",
-    "first_seen": "2026-08-10"
-  },
-  {
-    "id": "saintwtf-junior-unity-developer",
-    "title": "Junior Unity Developer",
-    "company": "SAINT·wtf",
-    "url": "https://saint.wtf/vacancy/junior-unity-developer/",
-    "location": "Full remote",
-    "axis": "unity3d",
-    "first_seen": "2026-08-10"
-  },
-  {
-    "id": "saintwtf-middle-unity-developer",
-    "title": "Middle Unity Developer",
-    "company": "SAINT·wtf",
-    "url": "https://saint.wtf/vacancy/middle-unity-developer/",
-    "location": "Full remote",
-    "axis": "unity3d",
-    "first_seen": "2026-08-10"
+    "first_seen": "2026-08-17"
   },
   {
     "id": "tier9-game-developer-gacha-toronto",
@@ -113,24 +59,6 @@
     "company": "VRChat",
     "url": "https://jobs.lever.co/vrchat/b62e839c-18ab-4dfd-90a5-801dfe98757e",
     "location": "Full remote",
-    "axis": "unity3d",
-    "first_seen": "2026-07-28"
-  },
-  {
-    "id": "webnet-dev-php-symfony",
-    "title": "Développeur PHP Symfony",
-    "company": "Webnet",
-    "url": "https://www.welcometothejungle.com/fr/companies/webnet/jobs/developpeur-php-symfony-lille_lille_WEBNE_wk9AWg8",
-    "location": "Lille · télétravail fréquent",
-    "axis": "dolibarr",
-    "first_seen": "2026-07-28"
-  },
-  {
-    "id": "bbi-platform-engineer-porting",
-    "title": "Platform Engineer (Porting / Co-dev)",
-    "company": "Blackbird Interactive",
-    "url": "https://jobs.lever.co/blackbirdinteractive/776d6eb4-525b-4ed7-9a5f-42ae7d2c462b",
-    "location": "Vancouver, Canada · remote-friendly",
     "axis": "unity3d",
     "first_seen": "2026-07-28"
   },
