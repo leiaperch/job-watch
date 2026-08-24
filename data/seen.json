@@ -1,5 +1,59 @@
 [
   {
+    "id": "silkhom-developpeur-php-symfony-bordeaux",
+    "title": "Développeur PHP-Symfony (mission freelance)",
+    "company": "Silkhom (client : éditeur logiciel coworking, 6 pers.)",
+    "url": "https://www.silkhom.com/annonce/developpeur-php-symfony/",
+    "location": "Bordeaux (33), 100% télétravail",
+    "axis": "dolibarr",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "id": "tapnation-unity-developer-webgl-freelance",
+    "title": "Unity Developer WebGL (Freelance)",
+    "company": "TapNation",
+    "url": "https://careers.tap-nation.io/jobs/5177095-unity-developer-webgl-freelance",
+    "location": "Full remote (bureaux Paris en option)",
+    "axis": "unity3d",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "id": "tapnation-unity-developer-cdi",
+    "title": "Unity Developer",
+    "company": "TapNation",
+    "url": "https://careers.tap-nation.io/jobs/5178476-unity-developer",
+    "location": "Full remote (bureaux Paris en option)",
+    "axis": "unity3d",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "id": "villagepeoplegames-unity-developer-match3",
+    "title": "Unity Developer – Match-3 mobile games",
+    "company": "Village People Games",
+    "url": "https://www.welcometothejungle.com/en/companies/vp-games/jobs/unity-developer-match-3-mobile-games_paris",
+    "location": "Full remote (rencontres trimestrielles à Paris)",
+    "axis": "unity3d",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "id": "edgeoftheworld-technical-artist-unity-claymation",
+    "title": "Technical Artist (Unity 3D – Claymation Focus)",
+    "company": "Edge of the World Studios",
+    "url": "https://remotegamejobs.com/jobs/edge-of-the-world-studios-technical-artist-unity-3d-claymation-focus-remote-job",
+    "location": "Remote (GMT+3, siège Riyad) · mission temps partiel",
+    "axis": "unity3d",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "id": "capsulecorplabs-ternoa-developpeur-unity-freelance",
+    "title": "Développeur Unity (Freelance)",
+    "company": "Capsule Corp Labs & Ternoa",
+    "url": "https://welovedevs.com/app/job/developpeur-unity-freelance-teletravail-capsule-corp-labs-ternoa",
+    "location": "Full remote (siège Biarritz)",
+    "axis": "unity3d",
+    "first_seen": "2026-08-24"
+  },
+  {
     "id": "triumph-arcade-unity-game-developer",
     "title": "Unity Game Developer",
     "company": "Triumph Arcade",
@@ -48,7 +102,7 @@
     "id": "leaptools-software-developer-threejs",
     "title": "Software Developer, React/NextJS (Three.js)",
     "company": "Leap Tools",
-    "url": "https://remotive.com/remote/jobs/software-development/software-developer-react-nextjs-4512160",
+    "url": "https://leap-tools.breezy.hr/p/980bb0277b4d-software-developer-react-nextjs",
     "location": "Remote / Worldwide (entreprise basée à Montréal)",
     "axis": "unity3d",
     "first_seen": "2026-07-29"
